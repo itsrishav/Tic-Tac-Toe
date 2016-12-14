@@ -12,6 +12,9 @@
 		F1A62DBD1E0017A200F0DAF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1A62DBB1E0017A200F0DAF3 /* Main.storyboard */; };
 		F1A62DBF1E0017A200F0DAF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1A62DBE1E0017A200F0DAF3 /* Assets.xcassets */; };
 		F1A62DC21E0017A200F0DAF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1A62DC01E0017A200F0DAF3 /* LaunchScreen.storyboard */; };
+		F1A62DCC1E00180300F0DAF3 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = F1A62DC91E00180300F0DAF3 /* board.png */; };
+		F1A62DCD1E00180300F0DAF3 /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = F1A62DCA1E00180300F0DAF3 /* cross.png */; };
+		F1A62DCE1E00180300F0DAF3 /* nought.png in Resources */ = {isa = PBXBuildFile; fileRef = F1A62DCB1E00180300F0DAF3 /* nought.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		F1A62DBE1E0017A200F0DAF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1A62DC11E0017A200F0DAF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F1A62DC31E0017A200F0DAF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1A62DC91E00180300F0DAF3 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
+		F1A62DCA1E00180300F0DAF3 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cross.png; sourceTree = "<group>"; };
+		F1A62DCB1E00180300F0DAF3 /* nought.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nought.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				F1A62DB71E0017A200F0DAF3 /* AppDelegate.swift */,
 				F1A62DB91E0017A200F0DAF3 /* ViewController.swift */,
 				F1A62DBB1E0017A200F0DAF3 /* Main.storyboard */,
+				F1A62DC91E00180300F0DAF3 /* board.png */,
+				F1A62DCA1E00180300F0DAF3 /* cross.png */,
+				F1A62DCB1E00180300F0DAF3 /* nought.png */,
 				F1A62DBE1E0017A200F0DAF3 /* Assets.xcassets */,
 				F1A62DC01E0017A200F0DAF3 /* LaunchScreen.storyboard */,
 				F1A62DC31E0017A200F0DAF3 /* Info.plist */,
@@ -123,6 +132,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1A62DCD1E00180300F0DAF3 /* cross.png in Resources */,
+				F1A62DCC1E00180300F0DAF3 /* board.png in Resources */,
+				F1A62DCE1E00180300F0DAF3 /* nought.png in Resources */,
 				F1A62DC21E0017A200F0DAF3 /* LaunchScreen.storyboard in Resources */,
 				F1A62DBF1E0017A200F0DAF3 /* Assets.xcassets in Resources */,
 				F1A62DBD1E0017A200F0DAF3 /* Main.storyboard in Resources */,
